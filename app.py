@@ -52,5 +52,5 @@ elif page == "Dashboard":
     dashboard.show_dashboard()
 elif page == "History":
     history.show_history()
-elif page == "ℹAbout":
+elif page == "About":
     about.show_about()
