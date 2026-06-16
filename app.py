@@ -36,7 +36,7 @@ with st.sidebar:
     
     page = st.radio(
         "",
-        ["Home", "Prediction", "Dashboard", "History", "ℹAbout"],
+        ["Home", "Prediction", "Dashboard", "History", "About"],
         label_visibility="collapsed"
     )
     
