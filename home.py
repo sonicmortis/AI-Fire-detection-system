@@ -57,7 +57,7 @@ def show_home():
             Uses **YOLOv8** deep learning model to detect fire and smoke in real-time.
             
             **Features:**
-            - 🔥 Fire (Red bounding box)
+            - 🔥 Fire (Blue bounding box)
             - 💨 Smoke (Yellow bounding box)
             - 📊 Performance analytics
             - 🎥 Webcam & image upload
@@ -66,7 +66,7 @@ def show_home():
     with col2_bot:
         st.subheader("📋 Course Info")
         st.markdown("""
-            **Course:** DIF60202 – Image Processing  
+            **Course:** Image Processing  
             **Program:** Informatika  
             **Semester:** Genap 2025/2026  
             **Model:** YOLOv8n (50 epochs)  
