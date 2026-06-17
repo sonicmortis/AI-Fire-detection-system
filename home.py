@@ -67,7 +67,6 @@ def show_home():
         st.subheader("📋 Course Info")
         st.markdown("""
             **Course:** Image Processing  
-            **Program:** Informatika  
             **Semester:** Genap 2025/2026  
             **Model:** YOLOv8n (50 epochs)  
         """)
